@@ -28,7 +28,7 @@ end
 
 #beyonce = Person.new("Beyonce")
 #jayz = Person.new("Jay-Z")
-# beyonce.go_on_date(jayz, true)
+# beyonce.go_on_a_date(jayz, true)
 # puts beyonce.happiness
 # puts jayz.happiness
 
